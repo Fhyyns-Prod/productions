@@ -88,7 +88,7 @@ header {
 .title {
     color: white;
     position: relative;
-    top: 13vh;
+    top: 18vh;
 }
 
 .banner {
@@ -240,13 +240,19 @@ header {
     align-items: stretch;
   }
 
+  .convince-container {
+    position: relative;
+    left: 40%;
+    top: -60vh;
+    margin-right: 60px;
+  }
+
   .convince {
     color: white;
     position: relative;
-    left: 40%;
-    top: -32vh;
+   
     margin-right: 600px;
-    line-height: 60px;
+    line-height: 70px;
   }
 
   .sample {
